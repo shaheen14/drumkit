@@ -1,2 +1,2 @@
-# drumkit
-Small project using html,css and javascript
+# drumkit (Small project using HTML, CSS and JavaScript)
+<
